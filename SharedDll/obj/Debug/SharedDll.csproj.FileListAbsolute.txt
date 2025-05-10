@@ -1,0 +1,6 @@
+C:\dev\cs\ServiceMonitoring\SharedDll\bin\Debug\SharedDll.dll
+C:\dev\cs\ServiceMonitoring\SharedDll\bin\Debug\SharedDll.pdb
+C:\dev\cs\ServiceMonitoring\SharedDll\obj\Debug\SharedDll.csproj.AssemblyReference.cache
+C:\dev\cs\ServiceMonitoring\SharedDll\obj\Debug\SharedDll.csproj.CoreCompileInputs.cache
+C:\dev\cs\ServiceMonitoring\SharedDll\obj\Debug\SharedDll.dll
+C:\dev\cs\ServiceMonitoring\SharedDll\obj\Debug\SharedDll.pdb

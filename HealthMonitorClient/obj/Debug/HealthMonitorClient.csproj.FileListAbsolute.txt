@@ -1,0 +1,13 @@
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\HealthMonitorClient.exe.config
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\HealthMonitorClient.exe
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\HealthMonitorClient.pdb
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\WCFSoapService.exe
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\WCFSoapService.pdb
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\WCFSoapService.exe.config
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\obj\Debug\HealthMonitorClient.csproj.AssemblyReference.cache
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\obj\Debug\HealthMonitorClient.csproj.CoreCompileInputs.cache
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\obj\Debug\HealthMo.882FE607.Up2Date
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\obj\Debug\HealthMonitorClient.exe
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\obj\Debug\HealthMonitorClient.pdb
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\SharedDll.dll
+C:\dev\cs\ServiceMonitoring\HealthMonitorClient\bin\Debug\SharedDll.pdb

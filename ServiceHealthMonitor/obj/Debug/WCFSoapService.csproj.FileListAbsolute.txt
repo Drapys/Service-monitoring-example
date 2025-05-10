@@ -1,0 +1,12 @@
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\bin\Debug\WCFSoapService.exe.config
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\bin\Debug\WCFSoapService.exe
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\bin\Debug\WCFSoapService.pdb
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.csproj.AssemblyReference.cache
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.csproj.GenerateResource.cache
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.csproj.CoreCompileInputs.cache
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.exe
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.pdb
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapService.ServiceHost.resources
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\bin\Debug\SharedDll.dll
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\bin\Debug\SharedDll.pdb
+C:\dev\cs\ServiceMonitoring\ServiceHealthMonitor\obj\Debug\WCFSoapS.7A2B0212.Up2Date
