@@ -1,8 +1,10 @@
-🛠️ Service Monitoring Example
+ 🛠️ Service Monitoring Example
+ 
 A practical demonstration of a Windows Communication Foundation (WCF) SOAP service hosted via a Windows Service and consumed by a console application. This project serves as a foundational template for service monitoring and communication in .NET environments.
 
 
 🛠️ Features
+
 🧩 WCF Service using BasicHttpBinding
 
 🖥️ Hosted via a self-contained Windows Service
@@ -15,6 +17,7 @@ A practical demonstration of a Windows Communication Foundation (WCF) SOAP servi
 
 
 📂 Project Structure
+
 Service-monitoring-example/
 ├── HealthMonitorClient/       # Console application client
 ├── ServiceHealthMonitor/      # Windows Service hosting the WCF service
@@ -23,6 +26,7 @@ Service-monitoring-example/
 
 
 🚀 Getting Started
+
 Prerequisites
 .NET Framework 4.7.2
 
@@ -45,6 +49,7 @@ Response granted
 
 
 🧩 Components Overview
+
 ServiceHealthMonitor
 Purpose: Hosts the WCF SOAP service.
 
